@@ -1,0 +1,25 @@
+[ {
+  "StockName": "Apple",
+  "NumberOfShare": 20,
+  "SharePrice": 350
+}, {
+  "StockName": "Google",
+  "NumberOfShare": 20,
+  "SharePrice": 200
+}, {
+  "StockName": "Java",
+  "NumberOfShare": 45,
+  "SharePrice": 400
+}, {
+  "StockName": "Pen",
+  "NumberOfShare": 25,
+  "SharePrice": 5
+}, {
+  "StockName": "Yahoo",
+  "NumberOfShare": 15,
+  "SharePrice": 150
+}, {
+  "StockName": "Books",
+  "NumberOfShare": 100,
+  "SharePrice": 40
+} ]
